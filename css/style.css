@@ -1,7 +1,9 @@
 @charset "utf-8";
 
 /*@import url("fonts.css"); подключаем шрифты*/
-@import url("reset.css"); /*обнуляем свойства*/
+/*@import url("reset.css"); обнуляем свойства*/
+@import url("normalize.css"); /*нормализируем стили, вместо обнуления*/
+
 
 @media only screen and (max-width: 30em) {
 /*
