@@ -1,4 +1,4 @@
-from-github
+html5-start
 ===========
 
-This is my first repo on github
+Start point to build a great website.
